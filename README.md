@@ -6,4 +6,5 @@ Have 3 logic test question with unit test.
 
 ```bash
 npm install
+cd nerversitsup_test
 ```
